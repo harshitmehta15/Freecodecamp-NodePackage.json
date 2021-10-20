@@ -12,5 +12,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Harshit Mehta"
+	"author": "Harshit Mehta",
+	"description": "A project that does something awesome"
+
 }
