@@ -14,7 +14,6 @@
 	},
 	"author": "Harshit Mehta",
 	"description": "A project that does something awesome",
-	"keywords": [ "freecodecamp", "related", "words" ]
-
-
+	"keywords": [ "freecodecamp", "related", "words" ],
+	"license": "MIT"
 }
