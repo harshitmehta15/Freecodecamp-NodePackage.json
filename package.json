@@ -18,6 +18,6 @@
 	"keywords": [ "freecodecamp", "related", "words" ],
 	"license": "MIT",
 	"version": "1.0.0",
-	"package": "~2.10.x"
+	"package": "~2.10.2"
 
 }
